@@ -1,1 +1,0 @@
-java -jar teste1.jar
