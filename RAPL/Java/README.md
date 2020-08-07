@@ -16,7 +16,7 @@ After that its possible to execute the "main.java" and it take as argument the n
 
 
 ```
-java java.main ch_insta_10 10
+java main ch_insta_10 10
 ```
 
 
